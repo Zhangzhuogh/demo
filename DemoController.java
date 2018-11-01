@@ -10,6 +10,6 @@ public class DemoController {
 
     @RequestMapping(value = "/hello",method = RequestMethod.GET)
     public String say(){
-        return "hello spring boot!";
+        return "hello spring boot";
     }
 }
