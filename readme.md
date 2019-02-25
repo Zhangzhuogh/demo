@@ -44,6 +44,6 @@
 > 29.git rebase （可以把本地未push，由原来的分支改变成一条）
 > 30.git branch --set-upstream branch-name origin/branch-name(建立本地分支与远程分支的关联)    
 
-## 资料
+## 资料1
 - git  
   [[git教程]](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
