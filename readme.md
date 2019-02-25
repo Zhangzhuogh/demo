@@ -24,7 +24,7 @@
 > 9.git push -u origin master （向远程库更新数据）  
 > 10.git branch （查看分支）  
 > 11.git branch -D dev （删除掉没有合并的分支）  
-> 12.git log （查看日志）  
+> 12.git log （查看日志）...  
 > 13.git reflog（历史日志）  
 > 14.git reset --HEAD (撤回)  
 > 15.ls -ah (查看数据)  
