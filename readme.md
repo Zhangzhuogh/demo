@@ -42,7 +42,9 @@
 > 27.**git push origin master(推送到github)**       
 > 28.git reset HEAD <file> （把暂存区修改撤销掉，重新放回工作区）  
 > 29.git rebase （可以把本地未push，由原来的分支改变成一条）
-> 30.git branch --set-upstream branch-name origin/branch-name(建立本地分支与远程分支的关联)    
+> 30.git branch --set-upstream branch-name origin/branch-name(建立本地分支与远程分支的关联)  
+> 31.git删除某次提交（某个commit）的方法  git rebase -i 
+ 
 
 ## 资料1
 - git  
